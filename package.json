@@ -11,6 +11,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
 	"electron": "electron .",
+    "test": "ng build --prod",
     "electron-build": "ng build --prod && electron ."
   },
   "private": true,
